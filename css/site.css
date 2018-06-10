@@ -1,0 +1,56 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 120%;
+    line-height: 1.5;
+    /*display: flex;
+    flex-wrap: wrap;*/
+}
+h1, h2{
+    font-family: 'PT Sans', sans-serif;
+}
+.topo-texto{
+    font-size: 3em;
+    background-color: #AA2233;
+    color: #DDD;
+    text-align: center;
+    padding: .5em;
+    text-transform: uppercase;
+    text-shadow: 3px 3px black;
+}
+.menu{
+    border-top: .5rem solid black;
+    border-bottom: .5rem solid black;
+    text-align: center;
+    padding: .5rem;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    color: black;
+    text-decoration: none;
+    padding-right: 5rem;
+    text-transform: lowercase;
+}
+.conteudo{
+    width: 90ch;
+    margin-bottom: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.conteudo p{
+    margin: 1em;
+    text-align: justify;
+}
+.rodape{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    color: #DDD;
+    padding: .5rem;
+    width: 100%;
+    clear: both;
+    font-size: .8em;
+    font-weight: bolder;
+}
