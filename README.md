@@ -1,1 +1,1 @@
-# meu_site
+Site desenvolvido para aplicação de novas tecnologias aprendidas, além de servir como portfólio futuramente.
